@@ -1,0 +1,61 @@
+{
+  "name": "KiteSurfSpotGram",
+  "short_name": "KSSG",
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3F51B5",
+  "description": "Show and share the coolest kitespots around you and on your holiday!",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src":"/src/images/icons/android/mipmap-hdpi/ic_launcher.png",
+      "type":"image/png",
+      "size":"24x24"
+    },
+    {
+      "src":"/src/images/icons/android/mipmap-ldpi/ic_launcher.png",
+      "type":"image/png",
+      "size":"36x36"
+    },
+    {
+      "src":"/src/images/icons/android/mipmap-mdpi/ic_launcher.png",
+      "type":"image/png",
+      "size":"72x72"
+    },
+    {
+      "src":"src/images/icons/android/mipmap-xhdpi/ic_launcher.png",
+      "type":"image/png",
+      "size":"24x24"
+    },
+    {
+      "src":"/src/images/icons/android/mipmap-xxhdpi/ic_launcher.png",
+      "type":"image/png",
+      "size":"36x36"
+    },
+    {
+      "src":"/src/images/icons/imessenger/icom-messages-app-iphone-27x20@3x.png",
+      "type":"image/png",
+      "size":"72x72"
+    },
+    {
+      "src":"/src/images/icons/ios/AppIcon.appiconset/Icon-App-20x20@1x.png",
+      "type":"image/png",
+      "size":"20x20"
+    },
+    {
+      "src":"/src/images/icons/ios/AppIcon.appiconset/Icon-App-20x20@2x.png",
+      "type":"image/png",
+      "size":"20x20"
+    },
+    {
+      "src":"/src/images/icons/ios/AppIcon.appiconset/Icon-App-20x20@3x.png",
+
+      "type":"image/png",
+      "size":"20x20"
+    }
+  ]
+}
