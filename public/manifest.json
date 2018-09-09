@@ -37,11 +37,6 @@
       "size":"36x36"
     },
     {
-      "src":"/src/images/icons/imessenger/icom-messages-app-iphone-27x20@3x.png",
-      "type":"image/png",
-      "size":"72x72"
-    },
-    {
       "src":"/src/images/icons/ios/AppIcon.appiconset/Icon-App-20x20@1x.png",
       "type":"image/png",
       "size":"20x20"
@@ -53,7 +48,6 @@
     },
     {
       "src":"/src/images/icons/ios/AppIcon.appiconset/Icon-App-20x20@3x.png",
-
       "type":"image/png",
       "size":"20x20"
     }
